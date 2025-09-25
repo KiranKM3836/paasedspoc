@@ -8,7 +8,7 @@
           "AC-View-ID": "ce1f1c40-c1ed-4ebd-b2ec-7b9869c8b4ea",
           "AC-Price-Book-ID": "b2b_shared_catalog",
           "AC-Source-Locale": "en-US",
-          "Missing AC_ENVIRONMENT_ID": "UwaXpL8Cr8AW34nXpBwGZg"
+          "AC_ENVIRONMENT_ID": "UwaXpL8Cr8AW34nXpBwGZg"
         }
       },
       "commerce-assets-enabled": false,
