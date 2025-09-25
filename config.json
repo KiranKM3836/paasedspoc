@@ -4,13 +4,11 @@
       "commerce-core-endpoint": "https://m247ee.klizer.co/graphql",
       "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/UwaXpL8Cr8AW34nXpBwGZg/graphql",
       "headers": {
-        "all": {
-          "Store": "default"
-        },
         "cs": {
           "AC-View-ID": "ce1f1c40-c1ed-4ebd-b2ec-7b9869c8b4ea",
           "AC-Price-Book-ID": "b2b_shared_catalog",
-          "AC-Source-Locale": "en-US"
+          "AC-Source-Locale": "en-US",
+          "Missing AC_ENVIRONMENT_ID": "UwaXpL8Cr8AW34nXpBwGZg"
         }
       },
       "commerce-assets-enabled": false,
